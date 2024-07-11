@@ -1,7 +1,7 @@
-#weather app
+# weather app
 This JavaScript application fetches and displays the current weather for a specified city using the OpenWeatherMap API.
 
-##Features
+## Features
   - API Integration: Uses the OpenWeatherMap API to get weather data.
   - City Search: Input a city name to retrieve its weather information.
   - Error Handling: Displays an error message if the city is not found.
