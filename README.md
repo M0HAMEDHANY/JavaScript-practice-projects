@@ -19,5 +19,6 @@ This project is a simple password generator that creates a random 24-character p
   - Ensures the password contains at least one uppercase letter, one lowercase letter, one number, and one symbol
   - Allows the generated password to be copied to the clipboard
 
-![image](https://github.com/mohameddhanyyy/JavaScript-practice-projects/assets/130695667/c3e6a134-91ea-4a7e-ba88-88a3c36004d8)
+![image](https://github.com/mohameddhanyyy/JavaScript-practice-projects/assets/130695667/616f93af-234b-4f77-ae0f-e4b43b3afa8f)
+
 
