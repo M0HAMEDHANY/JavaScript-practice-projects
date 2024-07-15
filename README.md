@@ -22,3 +22,19 @@ This project is a simple password generator that creates a random 24-character p
 ![image](https://github.com/mohameddhanyyy/JavaScript-practice-projects/assets/130695667/616f93af-234b-4f77-ae0f-e4b43b3afa8f)
 
 
+# Image Search Engine
+
+
+This project is an Image Search Engine that allows users to search for images using keywords. The application leverages the Unsplash API to fetch high-quality images based on the search queries provided by the users. The interface is simple and intuitive, making it easy for users to find and view images related to their search terms.
+
+## Features
+
+  - **Keyword-based Search**: Users can search for images using keywords.
+  - **High-Quality Images**: Images are fetched from Unsplash, ensuring high quality.
+  - **Responsive Design**: The layout adapts to different screen sizes, providing a seamless experience on both desktop and mobile devices.
+  - **User-Friendly Interface**: Simple and clean interface for easy navigation.
+
+![image](https://github.com/user-attachments/assets/6a94767d-a2b1-48de-929c-45751c3b14bd)
+
+
+
