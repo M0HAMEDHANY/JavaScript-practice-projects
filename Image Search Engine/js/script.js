@@ -4,7 +4,7 @@ const searchButton = document.getElementById('search-button');
 const searchResult = document.querySelector('.search-result');
 const showMoreButton = document.getElementById('show-more-button');
 
-const key = "EQ1fLYIGTyg9MVwlehQVVAyaJSo_wYYmjjyowsXxbwI";
+const key = "your API key";
 let keyword = '';
 let page = 1;
 async function searchImages() {
